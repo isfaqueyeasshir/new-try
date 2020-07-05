@@ -1,0 +1,90 @@
+body{
+    font-family: 'Noto Sans', sans-serif;
+}
+h2{
+    font-size: 50px;
+
+}
+h1{
+    font-size: 60px;
+
+}
+.name{
+    color: brown;
+}
+.half1{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half1 img{
+    width: 100%;
+} 
+.top-banner{
+    background-image: url(header-bg.png);
+    width: 1400px;
+    height: 600px;
+    background-repeat: no-repeat;
+}
+.link-button{
+    background-image: linear-gradient(45deg, red, blue);
+    font-weight: 700;
+    color: aliceblue;
+    background-image: 60px 30px;
+}
+.biography{
+    background-image: url(biography-bg.png);
+    width: 1400px;
+    height: 600px;
+    background-repeat: no-repeat;
+
+}
+.third{
+    width: 25%;
+    float: left;
+    margin-left: 3%;
+    align-items: center;
+    align-content: center;
+}
+.first-image{
+    margin-left: 4%;
+}
+.latest{
+    text-align: center;
+}
+.works{
+    background-image: url(latest-work-bg.png);
+    width: 1400px;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.last{
+    text-align: center;
+}
+.mail{
+    background-image: linear-gradient(red, red);
+    background-size: 100px 40px;
+    font-weight: 700;
+    color: aliceblue;
+}
+.cap{
+    width: 60%;
+    
+    float: left;
+    margin-left: 3%;
+    align-items: center;
+    align-content: center;
+}
+.cap1{
+    width: 40%;
+    
+    float: left;
+    margin-left: 3%;
+    align-items: center;
+    align-content: center;
+}
+.cap2{
+    float: left;
+}
